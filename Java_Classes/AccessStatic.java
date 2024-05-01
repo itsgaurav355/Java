@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 //How Static works and accessibility of static variable
 class Demo3{
     int a,b;

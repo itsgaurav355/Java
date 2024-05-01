@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 
 import java.util.Scanner;
 //This is not Threading this is called procedural execution of a program or The program executed by only one thread and step by step

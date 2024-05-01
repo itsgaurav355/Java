@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 //Composed objects Heart and Brain
 class Heart
 {

@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 //Demonstration of Priority Threads
 public class MSword implements Runnable {
     public void run() {

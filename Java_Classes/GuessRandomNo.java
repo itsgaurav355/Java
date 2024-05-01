@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 
 import java.util.Random;
 import java.util.Scanner;

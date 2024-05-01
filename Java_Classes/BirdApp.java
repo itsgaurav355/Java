@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 abstract class Bird{
     abstract void fly();
     abstract void eat();

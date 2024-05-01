@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 import java.util.Scanner;
 abstract class Shape1 {
     int length,breath;

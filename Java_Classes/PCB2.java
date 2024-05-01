@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 
 class Producer2 implements Runnable {
  private Bucket_Queue2 bq;

@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;

@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 import java.util.Scanner;
 //abstraction efficient method --> Impure abstraction= abstract method+concrete methods
 import static java.lang.Math.PI;

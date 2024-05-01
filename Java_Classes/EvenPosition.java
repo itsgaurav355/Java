@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 import java.util.Scanner;
 //print even position times even elements
 public class EvenPosition {

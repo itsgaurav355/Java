@@ -35,7 +35,7 @@ public class SubSet {
            start =0 ;
            //but if current and previous element is same ,then s = e + 1
             if(i > 0 && arr[i] == arr[i-1]){
-                start =end +1;
+                start =end + 1;
             }
             end =outer.size() -1 ;
             int n =outer.size();

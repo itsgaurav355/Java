@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 import java.util.Scanner;
 //1.Interning--> The process of the copy the string from Non-constant string pool to Constant String pool is called Interning
 public class StringInterning {

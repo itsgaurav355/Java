@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 
 public class StringsDemo {
     public static void main(String[] args) {

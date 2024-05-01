@@ -1,4 +1,5 @@
-package Java_Classes;
+package com.Java_Classes;
+
 //P for producer C for consumer B for Bucket class Use of wait() and notify() methods
 public class PCB_Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 //Blocking in threads or blocking of source
 //case 1 --> Blocking of resources in java(When one thread is working with bat ball another thread cannot access the same resource they will go to block state until thread 1 completes  its execution
 /*

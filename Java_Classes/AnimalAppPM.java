@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 //
 class Animal2 {
     void eat()

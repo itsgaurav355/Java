@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 import java.util.Scanner;
 /*Throwing Exception Manually
 public class ThrowDemo2 {

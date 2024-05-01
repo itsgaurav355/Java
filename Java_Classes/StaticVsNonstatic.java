@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 //Principal: Static block is executed only once because it is independent of no. of object Where non static block is dependent on it.
 class Demo4{
     static {

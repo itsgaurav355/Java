@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 
 public class Bucket_Queue {
     int x;

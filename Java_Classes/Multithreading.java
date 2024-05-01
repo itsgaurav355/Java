@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 
 //method 1 for threading by extending thread class:)
 class Mythread extends Thread{

@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 class  Demo{
     int a,b;
     static int x,y;

@@ -1,4 +1,4 @@
-package Java_Classes;
+package com.Java_Classes;
 
 import java.util.ArrayDeque;
 import java.util.Iterator;
